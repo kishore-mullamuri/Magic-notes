@@ -1,0 +1,6 @@
+#cardwritten:hover{
+    transform: scale(1.2);
+    /* border: greenyellow; */
+    border-color: coral;
+    z-index: 2;
+}
